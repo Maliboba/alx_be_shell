@@ -1,5 +1,6 @@
 # alx_be_shell
-----------------------------------------------------------------------
+
+
 # Shell Permissions Project
 
 This project contains a series of shell scripts designed to demonstrate an understanding of Linux file permissions and basic shell scripting. Each script adheres to the following rules:
